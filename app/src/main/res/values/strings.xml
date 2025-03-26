@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OMDbSearchApp</string>
+    <string name="enter_movie_title">Enter movie title</string>
+    <string name="search">Search</string>
+    <string name="movie_list">Movie List</string>
+    <string name="poster_image">Poster</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="year">Year</string>
+    <string name="genre">Genre</string>
+    <string name="plot">Plot</string>
+    <string name="imdb_rating">IMDB Rating</string>
+    <string name="poster_description">Movie Poster</string>
+</resources>
